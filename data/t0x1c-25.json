@@ -1,0 +1,8 @@
+{
+  "contest": 346,
+  "handle": "t0x1c",
+  "risk": "3",
+  "title": "Rounding of `user.virtualRewards` happens in user's favour inside `claimAllRewards()`",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-03-saltyio-mitigation-findings/issues/25"
+}
