@@ -1,0 +1,8 @@
+{
+  "contest": 346,
+  "handle": "t0x1c",
+  "risk": "3",
+  "title": "Multiple sendSALT proposals can now get approved and together all at once spend more than `5%` of the current SALT balance of the DAO",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2024-03-saltyio-mitigation-findings/issues/60"
+}
