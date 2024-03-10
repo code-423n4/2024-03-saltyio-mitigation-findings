@@ -1,0 +1,8 @@
+{
+  "contest": 346,
+  "handle": "t0x1c",
+  "risk": "3",
+  "title": "`removeLiquidity()` executes unbalanced token removal due to rounding bug, allowing user to steal funds",
+  "issueId": 126,
+  "issueUrl": "https://github.com/code-423n4/2024-03-saltyio-mitigation-findings/issues/126"
+}
